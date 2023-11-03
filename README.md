@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moon7k
-- 👀 I’m interested in learn Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in learn everything i can :)
+- 🌱 I’m currently learning html/css
 - 💞️ I’m looking to collaborate in nothing right now
 - 📫 How to reach me : you dont
 
